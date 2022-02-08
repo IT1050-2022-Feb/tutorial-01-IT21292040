@@ -32,6 +32,7 @@ int main() {
     amount = ( 30 * 50.0 ) + ( distance - 30 ) * 40.0;//calculate first 30km and other km's
     
     printf( "\namount to be paid = %.2f\n" , amount );//display full amount
+
   
   return 0;
 }//end main programme

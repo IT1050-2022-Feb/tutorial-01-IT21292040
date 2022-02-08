@@ -22,4 +22,4 @@ int main() {
    printf( "Average is : %.2f\n" , avg ); 
   
   return 0;
-}
+}//end main function

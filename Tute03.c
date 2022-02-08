@@ -24,7 +24,7 @@ int main() {
    
     sum = sum + no;
     no--;
-  }
+  }//end while
          
   printf( "Sum is : %d" , sum );
         
